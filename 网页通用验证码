@@ -4,7 +4,7 @@
 // @version 3.1.2
 // @description  解放眼睛和双手，自动识别并填入数字，字母验证码。新版本支持识别滑动验证码。
 // @author       哈士奇
-
+ 
 // @include        http://*
 // @include        https://*
 // @license        MIT
